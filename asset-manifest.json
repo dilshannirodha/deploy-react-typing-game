@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TypingTest/static/css/main.ecf6f4f5.css",
+    "main.js": "/TypingTest/static/js/main.0471fbb6.js",
+    "static/js/453.23c1b117.chunk.js": "/TypingTest/static/js/453.23c1b117.chunk.js",
+    "static/media/keyboard.svg": "/TypingTest/static/media/keyboard.bcdae29f8df2ca222b239df9c5d9a5a6.svg",
+    "static/media/5000words.txt": "/TypingTest/static/media/5000words.a776201c4c3c1a8a0d5f.txt",
+    "static/media/1000words.txt": "/TypingTest/static/media/1000words.bc5e1895fc5955ace000.txt",
+    "static/media/200words.txt": "/TypingTest/static/media/200words.0d4caf093bc221b9c3c1.txt",
+    "index.html": "/TypingTest/index.html",
+    "main.ecf6f4f5.css.map": "/TypingTest/static/css/main.ecf6f4f5.css.map",
+    "main.0471fbb6.js.map": "/TypingTest/static/js/main.0471fbb6.js.map",
+    "453.23c1b117.chunk.js.map": "/TypingTest/static/js/453.23c1b117.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf6f4f5.css",
+    "static/js/main.0471fbb6.js"
+  ]
+}
